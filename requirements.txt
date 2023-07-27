@@ -1,8 +1,6 @@
-pip install yfinance
-# imports
-import yfinance as yf
-import streamlit as st
-import datetime 
-import pandas as pd
-import cufflinks as cf
-from plotly.offline import iplot
+yfinance
+streamlit
+datetime 
+pandas
+cufflinks
+plotly.offline
